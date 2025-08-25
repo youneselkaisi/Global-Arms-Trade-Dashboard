@@ -1,4 +1,4 @@
-**# Global Arms Trade and Military Spending Dashboard (1970s–2022)
+# Global Arms Trade and Military Spending Dashboard (1970s–2022)
 
 ## Project Objective
 The objective of this project is to provide an interactive Excel dashboard analyzing global arms trade and military spending trends from the 1970s to 2022. It allows users to explore arms imports and exports, defense spending as a percentage of GDP, and total military personnel over time. The dashboard also compares BRICS and G7 countries to highlight key differences in defense strategies and spending priorities. This tool is designed to support researchers, policy analysts, and stakeholders in understanding global defense dynamics.
